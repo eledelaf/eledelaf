@@ -3,7 +3,7 @@
 ## About me
 
 - Mathematician and Data Scientist 🧑‍🏫
-- Python programer
+- Python programmer
 
 
 <!--
