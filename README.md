@@ -1,6 +1,6 @@
 ## Hi there I am Elena 👋 
 
-**Hi! I’m Elena, a Data Science MSc student based in London. I love turning data into insights and exploring how AI and NLP can help us understand the world better. I have a background in Mathematics and Computer Science and a Masters in Data Science. I enjoy learning new tools and building meaningful projects.**
+**Hi! I’m Elena, a Data Science MSc student based in London. I love turning data into insights and exploring how AI and NLP can help us understand the world better. I have a background in Mathematics and I enjoy learning new tools and building meaningful projects.**
 ## About me
 
 - Mathematician 👩‍🔬
