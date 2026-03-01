@@ -1,4 +1,4 @@
-# Hi, I'm Elena de la Fuente
+# Hi, I'm Elena
 
 Data Science MSc student based in **London**, with a background in Mathematics.
 I specialise in turning raw data into clear, actionable insights — from exploratory analysis and SQL queries to dashboards and NLP pipelines.
