@@ -1,7 +1,7 @@
-# Hi, I’m Elena
+# Hi, I’m Elena!
 
 I’m an MSc Data Science student in **London** with a Mathematics background.  
-I like making data feel straightforward — whether that means a clean SQL query, a Power BI dashboard that answers the real question, or an NLP workflow you can reproduce and build on.
+I like making data feel straightforward, whether that means a clean SQL query, a Power BI dashboard that answers the real question, or an NLP workflow you can reproduce and build on.
 
 ---
 
