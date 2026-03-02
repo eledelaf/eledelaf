@@ -1,7 +1,7 @@
 # Hi, I’m Elena 🌷
 
 I’m an MSc Data Science student in **London** with a background in Mathematics.  
-I enjoy taking messy data and making it feel clean and understandable — a solid SQL query, a Power BI dashboard that tells the story, or an NLP project you can actually reproduce.
+I enjoy taking messy data and making it feel clean and understandable; a solid SQL query, a Power BI dashboard that tells the story, or an NLP project you can actually reproduce.
 
 ---
 
